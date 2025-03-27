@@ -1,3 +1,12 @@
+
+CRYPTO PREDICTION
+
+Objective:   
+Cryptocurrency Portfolio Tracker: Develop a cryptocurrency portfolio tracker using React
+and CoinGecko API.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
